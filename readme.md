@@ -1,16 +1,15 @@
 ### Logos
   * [Logodust.com](http://logodust.com/) - free to download logo files
 ### UX
-* Checklists
-  * [ ] [Good UI](http://www.goodui.org/)
-  * [ ] [UX Checklist](http://uxchecklist.github.io/)
-  * [ ] [Visual Designers Checklist](http://webdesignerschecklist.com/)
-  * [ ] [Nice Designers Checklist](http://adrien-heury.net/designers-checklists/)
-  * [ ] [Usability Checklist](https://userium.com/)
-  * [ ] [IDX Checklist](http://ixdchecklist.com/)
-  * [ ] [Startup Lunch List](http://startuplaunchlist.com/-JsfUTzJqEOfv5fCYImO)
-* [ ] [UX 101](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-* [ ] [UX MYTHS](http://uxmyths.com/) 
+  * [Good UI](http://www.goodui.org/)
+  * [UX Checklist](http://uxchecklist.github.io/)
+  * [Visual Designers Checklist](http://webdesignerschecklist.com/)
+  * [Nice Designers Checklist](http://adrien-heury.net/designers-checklists/)
+  * [Usability Checklist](https://userium.com/)
+  * [IDX Checklist](http://ixdchecklist.com/)
+  * [Startup Lunch List](http://startuplaunchlist.com/-JsfUTzJqEOfv5fCYImO)
+* [UX 101](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+* [UX MYTHS](http://uxmyths.com/) 
 * [Basic Design Principles](http://www.cs.sfu.ca/CourseCentral/363/inkpen/lecture_notes/363_lecture6.pdf)
   * [And The Book](http://ptgmedia.pearsoncmg.com/images/9780133966152/samplepages/9780133966152.pdf)
 * [How to compose a vertical rythm](https://24ways.org/2006/compose-to-a-vertical-rhythm/)
@@ -33,16 +32,16 @@
 * [Comprehensive Guide on Font loading stragegies](https://www.zachleat.com/web/comprehensive-webfonts/)
 * [Nice Web Type](http://nicewebtype.com/)
 * [Typography in 10 minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
-* [FontCDN](http://fontcdn.org/)
+* [qwerty.dev](https://qwerty.dev/)
 * [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
-* [x] [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/#section/1)
-* [x] [Font Pairing](http://school.readymag.com/intro/)
-* [x] [Basehold.it](http://basehold.it/) - for horizontal base-lines
-* [ ] [Gridlover](http://www.gridlover.net/app/) - quickly set font sizest to fit baseline, CSS/SASS/LESS export
-* [ ] [Top 10 Commandments of typeography](http://visual.ly/10-commandments-typography)
-* [x] [Modular Scale](http://www.modularscale.com/) 
-* [ ] [About Mordern Scale from typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
-* [x] [Find perfect font **Combo**](http://www.typegenius.com/)
+* [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/#section/1)
+*  [Font Pairing](http://school.readymag.com/intro/)
+* [Basehold.it](http://basehold.it/) - for horizontal base-lines
+* [Gridlover](http://www.gridlover.net/app/) - quickly set font sizest to fit baseline, CSS/SASS/LESS export
+* [Top 10 Commandments of typeography](http://visual.ly/10-commandments-typography)
+* [Modular Scale](http://www.modularscale.com/) 
+* [About Mordern Scale from typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+* [Find perfect font **Combo**](http://www.typegenius.com/)
 * [What font **Size** to use](http://designforhackers.com/blog/font-sizes/)
 * [See fonts in use](http://fontsinuse.com/)
 * [Adobe Typekit font selector](https://typekit.com/fonts?collection=trial&licenses=web)
@@ -54,15 +53,15 @@
 * [Wordmark.it](http://wordmark.it/) - Helps you choose fonts
   * uses local fonts
 * [Modulator](http://www.metaflop.com/modulator) - design your own font
-* [ ] [type.css](http://mrmrs.io/type.css/) - A MOBILE-FIRST RESPONSIVE TYPE SCALE
-* [ ] [typebase.css](https://devinhunt.github.io/typebase.css/) - a minimal, customizable typography stylesheet + SASS
+* [type.css](http://mrmrs.io/type.css/) - A MOBILE-FIRST RESPONSIVE TYPE SCALE
+* [typebase.css](https://devinhunt.github.io/typebase.css/) - a minimal, customizable typography stylesheet + SASS
 * [Contrast a difference between two fonts](http://tiff.herokuapp.com/?ref=producthunt) - google fonts only
-* [ ] [Thinking with Type](http://www.thinkingwithtype.com/)
+* [Thinking with Type](http://www.thinkingwithtype.com/)
 * [Flowtype.js](http://simplefocus.com/flowtype/) - to enforce 45-75 chars per line for all screen sizes, requires jQuery
 * [Fonts Popularity](http://www.fontreach.com)
 
 ### Icons
-* [Glyphter - Create Your Own Icon sets](https://glyphter.com) from OSS fonts.
+* [Glyphter — Create Your Own Icon sets](https://glyphter.com) from OSS fonts.
 * [Nucleo](https://www.nucleoapp.com/?ref=producthunt) - smartest set of icons
 * [Smart Icons](https://smarticons.co) - Customizable SVG icon system for the modern web.
 * [Iconmonstr](http://iconmonstr.com/)
@@ -83,27 +82,25 @@
 * [Spectral](http://jxnblk.com/Spectral/#963add&hues=8&rows=4&shiftS=-0.1&shiftL=-0.1) – really good for creating color schemes
 * [Marevel Colors](https://marvelapp.com/styleguide/design/color-scheme)
 * http://color.koya.io/
-
---
-* https://www.colorbox.io/ - design your colors from Lyft
+* https://www.colorbox.io/ — design your colors from Lyft
 * http://www.colorion.co/
-* [lolcolors.com](http://www.lolcolors.com/) - curated palettes
+* [lolcolors.com](http://www.lolcolors.com/) — curated palettes
 * [colourco.de](http://colourco.de/)
-* [htmlcolorcodes.com](http://htmlcolorcodes.com/) - a lot about color, beautiful site
-* [Coolors.co](https://coolors.co/) - color schemes generator
-* [Colorhunt.co](http://colorhunt.co/hot) - Product Hunt for colors
-* [Color Dot](http://color.hailpixel.com/) - click and pick colors + unique URL for any amount
-* [Material Design Colors](http://www.materialui.co/colors) - all colors on one page
+* [htmlcolorcodes.com](http://htmlcolorcodes.com/) — a lot about color, beautiful site
+* [Coolors.co](https://coolors.co/) — color schemes generator
+* [Colorhunt.co](http://colorhunt.co/hot) — Product Hunt for colors
+* [Color Dot](http://color.hailpixel.com/) — click and pick colors + unique URL for any amount
+* [Material Design Colors](http://www.materialui.co/colors) — all colors on one page
 * [Infografics about colors](http://visual.ly/art-color-coordination?utm_source=twitter&utm_medium=social&utm_campaign=promo)
 * [Chroma.js - Color Scale Helper](http://gka.github.io/palettes/#diverging|c0=lightyellow,orange,deeppink,darkred|c1=lightyellow,orange,deeppink,darkred|steps=7|bez0=1|bez1=1|coL0=1|coL1=1)
 * [Flat UI Colors](http://www.flatuicolorpicker.com/)
 * [Brand Colors](http://brandcolors.net/)
-* [Paletton](http://paletton.com/) - color scheme scheme designer
-* [0-255](http://www.0to255.com/5a3b7b) - find variations of any color
+* [Paletton](http://paletton.com/) — color scheme scheme designer
+* [0-255](http://www.0to255.com/5a3b7b) — find variations of any color
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
-* [Colllor](http://colllor.com/) - Color Palette Generator
+* [Colllor](http://colllor.com/) — Color Palette Generator
 * [UI Gradients](http://uigradients.com/#ManofSteel)
-* [ ] [clrs.cc](http://clrs.cc/a11y/) - accessibility
+* [clrs.cc](http://clrs.cc/a11y/) — accessibility
 * [Gradient Explorer](http://jxnblk.com/shade/)
 * [Material Design colors](https://www.google.com/design/spec/style/color.html#color-color-palette)
 
@@ -146,7 +143,7 @@
   - [Booking.js](http://booking.timekit.io/) - I really like the logo outline and overal feel (screen shot just in case http://screencast.com/t/KXRVnupV)
   - [Bedouin, From Dibble](https://dribbble.com/shots/2359639-Bedouin-by-Circular/attachments/452216) - overal feel of navigatoin and simplicity
   - [Tribe](http://tribe.pm/) - minimal and clean
-* [ ] [A lot of Tools, animations, etc](http://tympanus.net/)
+* [A lot of Tools, animations, etc](http://tympanus.net/)
 * [Font Reach](http://www.fontreach.com/#top) nice gradients and font
 * [Top Nav animation + loading in menu icon](http://polygraw.com/)
 * [Design Awwwards](http://www.awwwards.com/)
@@ -242,7 +239,7 @@
 * Visualization
   * [Driven By Data, work by NY times graphics editor](http://driven-by-data.net/)
   * [Variance](https://variancecharts.com/examples/) 💰(free for OSS)
-  * [Tiny Chart](http://tinychart.co/) - super-simple x-y chart
+  * [Tiny Chart](http://tinychart.co/) — super-simple x-y chart
 
 ### Sources
   * [Centuries in CA](http://www.dssf.org/dssf_html/century.php)
@@ -253,24 +250,24 @@
 ### App Platforms
 * [ionic](http://ionicframework.com/getting-started/)
   * Angular
-* [reapp](http://reapp.io/) - easier way to build apps with React and JS
+* [reapp](http://reapp.io/) — easier way to build apps with React and JS
   * not very active
   * small community
 
 
 ### To Read/Watch
 * CSS/SASS  
-  * [ ] [PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
-    * [x] [PostCSS Misconceptions](https://medium.com/@ddprrt/postcss-misconceptions-faf5dc5038df)
-    * [ ] [De-confusing Pre- and Post-processing](https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3)
-    * [ ] [How to future-proff Twbs with PostCSS](https://github.com/twbs/bootstrap/issues/16366)
-  * [ ] [MVCSS](http://mvcss.io/)
-  * [ ] [A Semantic Kind of Blue](http://eoinkelly.info/blog/2012/07/25/a-semantic-kind-of-blue/)
-* [ ] Webpack
-  * [ ] [Introduction To Webpack](https://www.youtube.com/watch?v=RKqRj3VgR_c)
-  * [ ] [Getting Started Video](https://www.youtube.com/watch?v=TaWKUpahFZM0)
-  * [ ] [Backend Apps with Webpack](http://jlongster.com/Backend-Apps-with-Webpack--Part-I)
-* [ ] [Mixins are dead](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
+  * [PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
+    * [PostCSS Misconceptions](https://medium.com/@ddprrt/postcss-misconceptions-faf5dc5038df)
+    * [De-confusing Pre- and Post-processing](https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3)
+    * [How to future-proff Twbs with PostCSS](https://github.com/twbs/bootstrap/issues/16366)
+  * [MVCSS](http://mvcss.io/)
+  * [A Semantic Kind of Blue](http://eoinkelly.info/blog/2012/07/25/a-semantic-kind-of-blue/)
+* Webpack
+  * [Introduction To Webpack](https://www.youtube.com/watch?v=RKqRj3VgR_c)
+  * [Getting Started Video](https://www.youtube.com/watch?v=TaWKUpahFZM0)
+  * [Backend Apps with Webpack](http://jlongster.com/Backend-Apps-with-Webpack--Part-I)
+* [Mixins are dead](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
 * [ ] React / Flux
   * [x] [Cartoon Guide for Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207)
   * [ ] [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005) 
@@ -300,19 +297,19 @@
   * [ ] Relay and GraphQL
     * [ ] [Nice Visual Guide](http://sgwilym.github.io/relay-visual-learners/)
     * [ ] [Community Roundup 27](https://facebook.github.io/react/blog/2015/09/14/community-roundup-27.html)
-* [ ] Design
-  * [ ] Usability
-    * [ ] [Usability 101](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-  * [ ] [An Introduction to Using Patterns in Web Design](http://37signals.com/papers/introtopatterns/) by 37signals
-  * [ ] [Design for the web](http://www.designingfortheweb.co.uk/part4/part4_chapter20.php)
-  * [ ] [Design For Non Designers (book)](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0133966151)
+* Design
+  * Usability
+    * [Usability 101](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+  * [An Introduction to Using Patterns in Web Design](http://37signals.com/papers/introtopatterns/) by 37signals
+  * [Design for the web](http://www.designingfortheweb.co.uk/part4/part4_chapter20.php)
+  * [Design For Non Designers (book)](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0133966151)
     * [on Scribd](http://www.scribd.com/doc/111127105/The-non-Designers-design-book-3rd-edition#scribd)
-* [ ] [12 factor app by Heroku](http://12factor.net/)
-* [ ] [RxJS > Promises](http://xgrommx.github.io/rx-book/WhyRx.html)
-* [ ] [Making AppZero](http://aprilzero.com/journal/making-of-aprilzero/) (process from idea to implementation)
-  * [ ] [part 2](http://aprilzero.com/journal/making-of-aprilzero-part-2/)
-* [x] [Golden Grid System](http://www.jonikorpi.com/golden-grid-system/)
-* [ ] [Pushpin, new way to build realtime Apps](http://pushpin.org/about/#how-it-works)
-* [ ] [Web Afer Tomorrow](http://tonsky.me/blog/the-web-after-tomorrow/)
-* [ ] [Flexbox in 5 mins](http://flexboxin5.com/)
-* [ ] [Real-time apps with Node, Codeschool](https://www.codeschool.com/screencasts/soup-to-bits-real-time-web-with-node-js/)
+* [12 factor app by Heroku](http://12factor.net/)
+* [RxJS > Promises](http://xgrommx.github.io/rx-book/WhyRx.html)
+* [Making AppZero](http://aprilzero.com/journal/making-of-aprilzero/) (process from idea to implementation)
+  * [part 2](http://aprilzero.com/journal/making-of-aprilzero-part-2/)
+* [Golden Grid System](http://www.jonikorpi.com/golden-grid-system/)
+* [Pushpin, new way to build realtime Apps](http://pushpin.org/about/#how-it-works)
+* [Web Afer Tomorrow](http://tonsky.me/blog/the-web-after-tomorrow/)
+* [Flexbox in 5 mins](http://flexboxin5.com/)
+* [Real-time apps with Node, Codeschool](https://www.codeschool.com/screencasts/soup-to-bits-real-time-web-with-node-js/)

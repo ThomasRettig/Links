@@ -22,6 +22,7 @@
 ### Grid
 * [1200px Grid System](http://1200px.com/)
 * [ZURB, Grid Builder](http://zurb.com/playground/css-grid-builder)
+* [Raster](https://rsms.me/raster/)
 
 ### Templates, design assets, themes
 * [UI8](https://ui8.net/category/all)
@@ -30,19 +31,19 @@
 
 ### Typography
 * [Comprehensive Guide on Font loading stragegies](https://www.zachleat.com/web/comprehensive-webfonts/)
-* [Nice Web Type](http://nicewebtype.com/) — solid tools for setting text, antialising etc
-* [Typography in 10 minutes](http://practicaltypography.com/typography-in-ten-minutes.html) - (serious resource)
-* [FontCDN](http://fontcdn.org/) - a better way to search google fonts
-* [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) - web book
-* [x] [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/#section/1) - simple and just great
+* [Nice Web Type](http://nicewebtype.com/)
+* [Typography in 10 minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
+* [FontCDN](http://fontcdn.org/)
+* [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+* [x] [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/#section/1)
 * [x] [Font Pairing](http://school.readymag.com/intro/)
 * [x] [Basehold.it](http://basehold.it/) - for horizontal base-lines
 * [ ] [Gridlover](http://www.gridlover.net/app/) - quickly set font sizest to fit baseline, CSS/SASS/LESS export
-* [ ] [Top 10 Commandments of typeography](http://visual.ly/10-commandments-typography?utm_source=social&utm_medium=twitter&utm_campaign=meet)
+* [ ] [Top 10 Commandments of typeography](http://visual.ly/10-commandments-typography)
 * [x] [Modular Scale](http://www.modularscale.com/) 
 * [ ] [About Mordern Scale from typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 * [x] [Find perfect font **Combo**](http://www.typegenius.com/)
-* [What font **Size** to use](http://designforhackers.com/blog/font-sizes/?mc_cid=01af7ac1b8&mc_eid=ef4f1b24f0)
+* [What font **Size** to use](http://designforhackers.com/blog/font-sizes/)
 * [See fonts in use](http://fontsinuse.com/)
 * [Adobe Typekit font selector](https://typekit.com/fonts?collection=trial&licenses=web)
 * [Aleo](http://www.fontfabric.com/aleo-free-font/), designed as slab serif companion for Lato
